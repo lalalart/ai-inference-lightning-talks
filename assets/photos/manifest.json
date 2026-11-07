@@ -1,0 +1,107 @@
+{
+  "zakharov": {
+    "hash": "4e337a8aa5",
+    "variants": [
+      {
+        "file": "zakharov-400.4e337a8aa5.webp",
+        "w": 400,
+        "h": 400
+      },
+      {
+        "file": "zakharov-640.4e337a8aa5.webp",
+        "w": 640,
+        "h": 640
+      }
+    ]
+  },
+  "sergeev": {
+    "hash": "65c4489fd8",
+    "variants": [
+      {
+        "file": "sergeev-400.65c4489fd8.webp",
+        "w": 400,
+        "h": 400
+      },
+      {
+        "file": "sergeev-640.65c4489fd8.webp",
+        "w": 640,
+        "h": 640
+      }
+    ]
+  },
+  "sabrina": {
+    "hash": "0d2d4fd5fd",
+    "variants": [
+      {
+        "file": "sabrina-400.0d2d4fd5fd.webp",
+        "w": 400,
+        "h": 476
+      },
+      {
+        "file": "sabrina-800.0d2d4fd5fd.webp",
+        "w": 800,
+        "h": 953
+      }
+    ]
+  },
+  "rogatov": {
+    "hash": "7a5da2c903",
+    "variants": [
+      {
+        "file": "rogatov-400.7a5da2c903.webp",
+        "w": 400,
+        "h": 400
+      },
+      {
+        "file": "rogatov-640.7a5da2c903.webp",
+        "w": 640,
+        "h": 640
+      }
+    ]
+  },
+  "sadovskiy": {
+    "hash": "673c1a9c49",
+    "variants": [
+      {
+        "file": "sadovskiy-400.673c1a9c49.webp",
+        "w": 400,
+        "h": 400
+      },
+      {
+        "file": "sadovskiy-640.673c1a9c49.webp",
+        "w": 640,
+        "h": 640
+      }
+    ]
+  },
+  "korotaev": {
+    "hash": "8b3b364e21",
+    "variants": [
+      {
+        "file": "korotaev-400.8b3b364e21.webp",
+        "w": 400,
+        "h": 400
+      },
+      {
+        "file": "korotaev-640.8b3b364e21.webp",
+        "w": 640,
+        "h": 640
+      }
+    ]
+  },
+  "roman": {
+    "hash": "1c7cd02ede",
+    "variants": [
+      {
+        "file": "roman-400.1c7cd02ede.webp",
+        "w": 400,
+        "h": 448
+      },
+      {
+        "file": "roman-800.1c7cd02ede.webp",
+        "w": 800,
+        "h": 895
+      }
+    ]
+  }
+}
